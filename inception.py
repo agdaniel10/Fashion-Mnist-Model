@@ -1,3 +1,5 @@
+'This is an Implementaion of the Googlenet inception architecture from scratch'
+
 import torch
 import torch.nn as nn
 
